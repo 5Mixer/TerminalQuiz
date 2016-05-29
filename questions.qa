@@ -1,0 +1,10 @@
+Male, Singular, begins with a vowel: l'
+Male, Singular, Z, S+Consonant, Ps, Pn, Gn: lo
+Male, Singular, begins with consonant that's not Z, S+Consonant, Ps, Pn or Gn: il
+Female, Singular, begins with a vowel: l'
+Female, Singular, doesn't begin with a vowel: la
+Male, plural, begins with a vowel: gli
+Male, plural, begins with Z, S+Consonant, Ps, Pn, or Gn: gli
+Male, plural, begins with a consonant other than Z, S+Consonant, Ps, Pn or Gn: i
+Female, plural, begins with vowel: le
+Female, plural, begins with consonant: le
